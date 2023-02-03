@@ -8,11 +8,11 @@ public class StrLastIndex {
         System.out.println("Enter a string:");
         String s1=n.nextLine();
         int index=s1.lastIndexOf('a');
-        System.out.println(index);
+        System.out.println("Character 'a' is last present at:"+index);
     }
 }
 //INPUT-
 //Enter a string:
 //java is a language
 //OUTPUT-
-//15
+//Character 'a' is last present at:15
