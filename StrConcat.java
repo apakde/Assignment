@@ -13,7 +13,7 @@ public class StrConcat {
     }
 }
 
-//INPUT-
+//INPUT:-
 //Enter two strings to concatenate:
 //Sachin
 //Tendulkar
