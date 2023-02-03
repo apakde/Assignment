@@ -1,4 +1,2 @@
-package Assignment_ARRAYS.Assignment;
-
-public class StrCharAt {
+package Assignment_ARRAYS.Assignment;public class StrCharAt {
 }
