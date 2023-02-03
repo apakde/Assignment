@@ -12,7 +12,7 @@ public class StrCompareTo {
     }
 }
 
-//INPUT -
+//INPUT-
 //Enter two strings to compare:
 //Hello
 //Hellp
