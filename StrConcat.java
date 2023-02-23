@@ -16,6 +16,6 @@ public class StrConcat {
 //INPUT:-
 //Enter two strings to concatenate:
 //Sachin
-//Tendulkar
+//Tendulkars
 //OUTPUT-
-//SachinTendulkar
+//SachinTendulkars
